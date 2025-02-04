@@ -13,7 +13,7 @@ cd path\to\folder
 ```
 Копируем себе сервер из репозитория 
 ```commandline
-git copy https://github.com/Uk141800/hellomynameis.git
+git copy https://github.com/Uk141800/Hellomynameis.git
 ```
 Создаем и активируем виртуальное окружение
 ```commandline
@@ -41,7 +41,7 @@ venv\Scripts\activate
 python app.py
 ```
 ## Демонстрация
-![chrome_i7FxlSmWtz.gif](..%2F..%2F..%2FDownloads%2FShareX-17.0.0-portable%2FShareX%2FScreenshots%2F2025-02%2Fchrome_i7FxlSmWtz.gif)
+![chrome_i7FxlSmWtz](https://github.com/user-attachments/assets/34683d61-a4e5-422f-b715-6f882418d5be)
 ## Лицензия
 
 Этот проект распространяется под лицензией **GNU General Public License v3.0**.  
